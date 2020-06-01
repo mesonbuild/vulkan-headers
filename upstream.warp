@@ -1,0 +1,6 @@
+[wrap-file]
+directory = Vulkan-Headers-1.2.142
+
+source_url = https://github.com/KhronosGroup/Vulkan-Headers/archive/v1.2.142.tar.gz
+source_filename = v1.2.142.tar.gz
+source_hash = 6770503b0e06bd45e8cb1dba1e40ad37097d1100c2de7cd45c07de3b2d383a3e
